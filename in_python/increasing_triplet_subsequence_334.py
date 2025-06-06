@@ -26,6 +26,7 @@ class Solution:
         first = float('inf')
         second = float('inf')
 
+
         for i in nums:
             if i <= first:
                 first = i
